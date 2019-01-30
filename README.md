@@ -1,5 +1,5 @@
-# Unity_1
-Assignment 1
+# Assignment 1
+
 
 (Green)
 1. Make the game print “Hello World” when it starts.
